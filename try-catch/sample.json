@@ -1,0 +1,14 @@
+{
+    "name": "Parent",
+    "details": {
+        "age": 30,
+        "address": {
+            "street": "Main St",
+            "city": "Anytown"
+        }
+    },
+    "items": [
+        "item1",
+        "item2"
+    ]
+}
