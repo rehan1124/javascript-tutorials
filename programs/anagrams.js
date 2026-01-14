@@ -1,3 +1,7 @@
+/**
+ * Valid Anagram (242): Determine if two strings are anagrams (uses frequency mapping/sorting).
+ */
+
 "use strict";
 
 function isAnagram(str1, str2) {
