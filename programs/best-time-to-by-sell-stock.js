@@ -6,6 +6,8 @@ function getMaxProfit(stockPrice) {
     let maxProfit = 0;
     let minPrice = stockPrice[0];
 
+    console.log('Incoming price:', stockPrice);
+
     for (let i = 1; i < stockPrice.length; i++) {
         let sellPrice = stockPrice[i];
         if (sellPrice < minPrice) {
@@ -20,4 +22,4 @@ function getMaxProfit(stockPrice) {
 }
 
 console.log("Max profit generated:", getMaxProfit([7, 1, 5, 3, 6, 4]));
-console.log(getMaxProfit([7, 6, 4, 3, 1]));
+console.log("Max profit generated:", getMaxProfit([7, 6, 4, 3, 1]));

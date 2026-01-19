@@ -1,0 +1,49 @@
+Top Array/String Problems for Senior QA
+These problems cover essential concepts:
+
+Two Sum / Three Sum Variants (Hashmap/Two Pointers): Finding pairs/triplets with a target sum tests hashmap efficiency or two-pointer sorting logic, vital for data validation.
+
+Product of Array Except Self (Prefix/Suffix Products): Tests efficient array traversal without division, common in data transformation.
+
+Container With Most Water (Two Pointers): Efficiently finding maximum area using shrinking boundaries.
+
+Spiral Matrix (Matrix Traversal): Tests matrix boundary management and iteration logic.
+
+Move Zeroes / Remove Duplicates (In-Place): Focus on modifying arrays in-place while preserving order (Two Pointers).
+
+Longest Substring Without Repeating Characters (Sliding Window): Fundamental sliding window for substring problems.
+
+Minimum Window Substring (Sliding Window/Hashmap): Complex sliding window for finding a minimal substring containing all chars from another string.
+
+First Missing Positive (In-Place Hashing): Advanced in-place array manipulation for a tricky constraint.
+
+Validate Parentheses / Reverse String/Palindrome: Essential stack/string manipulation basics.
+
+Group Anagrams / Valid Anagram (Hashmap/Sorting): Grouping/comparing strings based on character counts.
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Here are 10 key LeetCode Linked List problems, categorized by difficulty and importance for a Senior QA:
+Core & Medium Difficulty (Must-Knows):
+
+Reverse Linked List (Easy/Medium): Iterative & Recursive solutions, fundamental for understanding pointer manipulation.
+
+Merge Two Sorted Lists (Easy): Practice dummy nodes and iterative merging.
+
+Linked List Cycle (Easy/Medium): Implement Floyd's Tortoise & Hare (Two-Pointer) algorithm.
+
+Remove Nth Node From End of List (Medium): Excellent for two-pointer technique.
+
+Palindrome Linked List (Easy/Medium): Tests recursion and fast/slow pointers for finding the middle. 
+
+Advanced/Senior-Level (Showcasing Depth):
+
+6. Add Two Numbers (Medium): Simulating addition, great for handling carry-overs.
+
+7. Copy List with Random Pointer (Medium/Hard): Involves deep copying and hash maps/pointers.
+
+8. Rotate List (Medium): Modifying list structure efficiently.
+
+9. Remove Duplicates from Sorted List II (Medium): Advanced handling of duplicate nodes.
+
+10. Flatten a Multilevel Doubly Linked List (Medium): Tests handling complex list structures (doubly/multilevel). 

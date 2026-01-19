@@ -9,3 +9,4 @@ console.log(hasOnlyDigits('123'));
 console.log(hasOnlyDigits('abc'));
 console.log(hasOnlyDigits('a1b2c3'));
 console.log(hasOnlyDigits('1 2 3'));
+console.log(hasOnlyDigits('1'));
