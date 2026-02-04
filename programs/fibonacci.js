@@ -8,6 +8,7 @@ function fibo(n) {
     }
 
     return fiboSeries.slice(0, n);
+    // return fiboSeries;
 }
 
 const fib1 = fibo(1);
